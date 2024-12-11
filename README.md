@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://github.com/user-attachments/assets/3736ef7a-4ea0-4801-9611-d1e0b779ffce
 
-
+I used ChatGPT and other websites to understand how to implement animated backgrounds and interact with a PHP server.
 
 
 ## Available Scripts
